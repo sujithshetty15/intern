@@ -1,6 +1,7 @@
-function greaterThan(a,b)
+function smallerThan(b,c)
 {
-    if(a<b)
-    console.log(greaterThan);
+    if(b<c)
+    console.log("lesser than")
 }
-greaterThan(80,60)
+
+smallerThan(80,90)
